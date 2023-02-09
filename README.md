@@ -42,9 +42,7 @@ Neste projeto, desenvolvi as seguintes habilidades:
 
 ## 💻 Problema resolvido
 
-Partindo de uma tabela não normalizada semelhante ao que poderia ser uma versão simplificada do banco de dados do Spotify (o banco de dados real do Spotify é muito mais completo e complexo). O projeto teve por objetivo normalizar essa tabela, criando o schema no banco de dados local e populando;
-
-Aviso: Todos os dados da tabela são fictícios e foram gerados aleatoriamente através de ferramentas. Quaisquer similaridades com informações reais são meras coincidências.
+Partindo de uma tabela não normalizada semelhante ao que poderia ser uma versão simplificada do banco de dados do Spotify (o banco de dados real do Spotify é muito mais completo e complexo). O projeto teve por objetivo normalizar essa tabela, criando o schema no banco de dados local e populando-o;
 
 <br>
 
