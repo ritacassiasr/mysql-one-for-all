@@ -8,7 +8,7 @@ Normalizando uma tabela na terceira forma normal e acessando as informações de
   <a href="#-habilidades">Habilidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-problema-resolvido">Problema Resolvido</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-aplicação">Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-acessando-repositório">Repositório</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -40,13 +40,13 @@ Neste projeto, desenvolvi as seguintes habilidades:
 
 <br>
 
-## 💻 Problema resolvido
+## 🧶 Problema resolvido
 
 Partindo de uma tabela não normalizada semelhante ao que poderia ser uma versão simplificada do banco de dados do Spotify (o banco de dados real do Spotify é muito mais completo e complexo). O projeto teve por objetivo normalizar essa tabela, criando o schema no banco de dados local e populando-o;
 
 <br>
 
-## 🤖 Aplicação
+## 💻 Acessando repositório
 
 Clone o repositório
   * `git clone git@github.com:ritacassiasr/mysql-one-for-all.git`
