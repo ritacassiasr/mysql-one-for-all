@@ -1,13 +1,66 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+<h1 align="center"> MySQL One For All</h1>
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<p align="center">
+Normalizando uma tabela na terceira forma normal e acessando as informações desta tabela através de queries utilizando SQL.
+</p>
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<p align="center">
+  <a href="#-habilidades">Habilidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-problema-resolvido">Problema Resolvido</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-aplicação">Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+## 🚀 Habilidades
+
+Neste projeto, desenvolvi as seguintes habilidades:
+
+- Modelar um banco de dados
+
+- Identificar entidades , atributos e relacionamentos
+
+- Aplicar a 1ª, 2ª e 3ª Forma Normal
+
+- Criar tabelas
+
+- Lidar com VIEWs
+
+- Alterar tabelas existentes
+
+- Criar reações dinâmicas com TRIGGERS
+
+<br>
+
+
+## ⛏ Ferramentas
+
+`MySQL`, `SQL`, `Docker`, `Docker compose`
+
+<br>
+
+## 💻 Problema resolvido
+
+Partindo de uma tabela não normalizada semelhante ao que poderia ser uma versão simplificada do banco de dados do Spotify (o banco de dados real do Spotify é muito mais completo e complexo). O projeto teve por objetivo normalizar essa tabela, criando o schema no banco de dados local e populando;
+
+Aviso: Todos os dados da tabela são fictícios e foram gerados aleatoriamente através de ferramentas. Quaisquer similaridades com informações reais são meras coincidências.
+
+<br>
+
+## 🤖 Aplicação
+
+Clone o repositório
+  * `git clone git@github.com:ritacassiasr/mysql-one-for-all.git`
+  * Entre na pasta do repositório que você acabou de clonar:
+    * `cd mysql-one-for-all`
+
+2. Instale as dependências e inicialize o projeto
+  * Instale as dependências:
+    * `npm install`
+  * Inicialize o projeto:
+    * `npm start` (uma nova página deve abrir no seu navegador com a lista de planetas)
+    * ⚠️ Lembrando que já deve se estar dentro da pasta do projeto `Trybe-project-starwars-planets-search`
+
+
+
